@@ -1,6 +1,7 @@
 *{
     margin: 0;
     padding: 0;
+    box-sizing: border-box;
 }
 .main{
 width: 50%;
@@ -19,6 +20,9 @@ font-family: Verdana, Geneva, Tahoma, sans-serif;
     padding: 15px 0;
     align-items: center;
     justify-content: space-between;
+    background-color: darkolivegreen;
+    position: sticky;
+    top: 0;
 }
 ul{
     margin-top: -4;
