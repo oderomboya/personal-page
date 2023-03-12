@@ -44,7 +44,12 @@ info{
     margin: 7%;
     margin-top: 6%;
 }
-.info{
-    font-size: 65px;
+.info h1{
+    font-size: 39px;
     color: brown;
+}
+.info h3{
+    font-size: 18px;
+    letter-spacing: 1px;
+    line-height: 24px;
 }
