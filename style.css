@@ -93,14 +93,19 @@ bottom: -40px;
     bottom: 0;
 }
 
-.icons a{
+.icon a{
     text-decoration: none;
     color: brown;
 }
 
-.icons ion-icons{
+.icon ion-icon{
     margin-left: 80%;
     color: brown;
-    margin-right: 770px;
-    font-size: 70%;
+    margin-left: 70px;
+    font-size: 70px;
+}
+
+.icon ion-icon:hover{
+    color: aqua;
+
 }
