@@ -3,6 +3,9 @@
     padding: 0;
     box-sizing: border-box;
 }
+body {
+    background: url("https://r4.wallpaperflare.com/wallpaper/517/212/894/abstract-computer-dark-pattern-wallpaper-48262d3840c0cc58d09cd17ee8d2a45a.jpg");
+}
 .main{
 width: 50%;
 background-position: center;
@@ -20,9 +23,11 @@ font-family: Verdana, Geneva, Tahoma, sans-serif;
     padding: 15px 0;
     align-items: center;
     justify-content: space-between;
-    background-color: darkolivegreen;
+    background-color: rgb(20, 31, 1);
     position: sticky;
     top: 0;
+    color: antiquewhite;
+    
 }
 ul{
     margin-top: -4;
@@ -43,7 +48,7 @@ ul li a{
 ul li a:hover{
     color: darkslategray;
 }
-info{
+.info{
     margin: 7%;
     margin-top: 6%;
 }
@@ -73,3 +78,4 @@ info{
 .info a:hover{
     background: darkblue;
 }
+
