@@ -40,3 +40,7 @@ ul li a{
 ul li a:hover{
     color: darkslategray;
 }
+info{
+    margin: 7%;
+    margin-top: 6%;
+}
