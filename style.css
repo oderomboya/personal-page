@@ -78,4 +78,18 @@ ul li a:hover{
 .info a:hover{
     background: darkblue;
 }
+.image{
+width: 50%;
+height: 70%;
+position: -webkit-sticky;
+right: 50px;
+bottom: -40px;
+}
+.image img{
+    position: sticky;
+    height: 140%;
+    left: 20%;
+    transform:translate(-50%) ;
+    bottom: 0;
+}
 
